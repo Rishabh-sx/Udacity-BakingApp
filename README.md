@@ -1,6 +1,6 @@
 # Baking App
 
-**This application is part of Udacity - Android Developer Nanodegree and based on Udacity's Project Rubric shared below:**
+**This application is part of Udacity - Android Developer Nanodegree and based on Udacity's project rubric shared below:**
 
 ## Common Project Requirements
 
